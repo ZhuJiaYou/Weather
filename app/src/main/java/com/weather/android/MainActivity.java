@@ -3,7 +3,7 @@ package com.weather.android;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.weather.android.weather.R;
+import com.weather.android.R;
 
 public class MainActivity extends AppCompatActivity {
 
